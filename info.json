@@ -1,0 +1,13 @@
+{
+  "name": "Lunipi",
+  "symbol": "LUNI",
+  "type": "BEP20",
+  "decimals": 18,
+  "website": "https://www.lunipix3.com",
+  "description": "Lunipi is a community-driven meme asset with burned ownership, zero tax structure, and a 90-day global sell lock.",
+  "explorer": "https://bscscan.com/token/0xDa122831079e0b25607d15D52BD899e4430e1230",
+  "telegram": "https://t.me/lunipi",
+  "twitter": "https://x.com/lunipix3",
+  "github": "https://github.com/mohsenorak-dotcom/LUNIPI",
+  "email": "lunipix3@gmail.com"
+}
